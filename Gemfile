@@ -2,6 +2,7 @@
 
 source "https://rubygems.org"
 
-git_source(:github) {|repo_name| "https://github.com/#{kacesera/web-app-pairing}" }
+git_source(:github) { |repo_name| "https://github.com/#{kacesera / web - app - pairing}" }
 
- gem "sinatra"
+gem "sinatra"
+gem "shotgun"
